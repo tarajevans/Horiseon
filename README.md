@@ -1,4 +1,4 @@
-# Code Refactor Starter Code<br><br>
+# Code Refactor Starter Code - Module 1<br><br>
 
 ##**Horiseon Code Refactored**<br><br>
 
