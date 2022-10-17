@@ -1,6 +1,6 @@
-# Code Refactor Starter Code - Module 1<br><br>
+# HTML, CSS and Git<br><br>
 
-##**Horiseon Code Refactored**<br><br>
+##**Horiseon Code Refactored**- Module 1<br><br>
 
 Refactor code: clean up anything messy or broken and make sure it follows accessibility standards. Condense CSS so there is no unneccessary repeating code.<br><br>
 
