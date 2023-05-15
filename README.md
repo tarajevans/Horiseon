@@ -1,8 +1,13 @@
 # HTML, CSS and Git<br><br>
 
-##**Horiseon Code Refactored**- Module 1<br><br>
+## **Horiseon Code Refactored**- Module 1<br><br>
 
-Refactor code: clean up anything messy or broken and make sure it follows accessibility standards. Condense CSS so there is no unneccessary repeating code.<br><br>
+Refactor code:
+
+- clean up anything messy or broken.
+- make sure it follows accessibility standards.
+- Condense CSS so there is no unneccessary repeating code (DRY).
+- Learn to use semantic HTML elements.<br><br>
 
 Link to deployed site is here: https://tarajevans.github.io/horiseon/<br><br>
 
