@@ -15,11 +15,14 @@ Link to repo is here: https://github.com/tarajevans/horiseon<br><br>
 
 ![](assets/images/Screenshot.png)<br><br>
 
-User Story<br><br>
+## User Story<br><br>
+
 AS A marketing agency<br>
 I WANT a codebase that follows accessibility standards<br>
 SO THAT our own site is optimized for search engines<br><br>
-Acceptance Criteria<br><br>
+
+## Acceptance Criteria<br><br>
+
 GIVEN a webpage meets accessibility standards<br>
 WHEN I view the source code<br>
 THEN I find semantic HTML elements<br>
