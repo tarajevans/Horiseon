@@ -1,8 +1,8 @@
-# HTML, CSS and Git<br><br>
+# Horiseon<br><br>
 
-## **Horiseon Code Refactored**- Module 1<br><br>
+## HTML, CSS and Git - Module 1<br><br>
 
-Refactor code:
+### Refactor code:
 
 - clean up anything messy or broken.
 - make sure it follows accessibility standards.
